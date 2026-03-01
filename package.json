@@ -1,0 +1,8 @@
+{
+  "name": "word-to-pdf-api",
+  "version": "1.0.0",
+  "main": "api/convert.js",
+  "dependencies": {
+    "cloudconvert": "^2.3.5"
+  }
+}
